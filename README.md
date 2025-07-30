@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 - **Country-Level Opportunities:** Highlighting top-performing markets such as Finland and the Netherlands for business targeting.
 
 An interactive Tableau dashboard is available [here](https://public.tableau.com/views/sportEU/Motivat?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-Testing and analysis of all hypotheses in a text file [here](.\Testing hypotheses.pdf).
+Testing and analysis of all hypotheses in a text file [here](./Testing hypotheses.pdf).
 
 ## Data Structure 
 The dataset used in this project consists of 26,543 records and 124 columns, derived from the cleaned version of the Eurobarometer 97.3 (2022) survey. It contains individual-level responses from participants across EU countries regarding sport and physical activity behavior.
@@ -45,7 +45,7 @@ Initial data checks were performed to:
 
 - Normalize binary indicators for nationality, motivations, and barriers
 
-The cleaned dataset can be found [here](.\data\sport_activity_data.csv).
+The cleaned dataset can be found [here](./data/sport_activity_data.csv).
 
 ## Executive Summary
 ### Overview of Findings
@@ -134,26 +134,17 @@ Younger respondents (15–34) and working-age groups (35–54) show the highest 
 Across nearly all age groups — but especially among working adults — lack of time is the #1 barrier to sport participation. Apps should offer quick-start options, short workouts (10–20 minutes), and smart scheduling or calendar integrations. Features that remove friction from the decision to be active (e.g., one-tap “Start Now” routines or weekly time budgets) will increase adherence and usability.
 
 3. **Separate training programmes for different genders**
-Gender differences in activity patterns and motivations are subtle but important.
-
-Men respond better to features emphasizing performance, progress, and training structure (e.g., goal tracking, strength metrics, achievements).
-
-Women show higher engagement when the focus is on fitness, well-being, and routine-friendly formats. Messaging that promotes balance, confidence, and long-term health tends to resonate more.
-
-Apps that include gender-aware personalization — without being stereotypical — are likely to see stronger adoption and satisfaction.
+Gender differences in activity patterns and motivations are subtle but important. Men respond better to features emphasizing performance, progress, and training structure (e.g., goal tracking, strength metrics, achievements). Women show higher engagement when the focus is on fitness, well-being, and routine-friendly formats. Messaging that promotes balance, confidence, and long-term health tends to resonate more. Apps that include gender-aware personalization — without being stereotypical — are likely to see stronger adoption and satisfaction.
 
 4. **Don’t Overlook Older Adults (55+)**
-While participation rates drop significantly in older age groups, this segment remains underserved. The barriers they face — such as health concerns or age-related limitations — call for gentle, accessible, and safe activity formats.
-Design recommendations include:
+While participation rates drop significantly in older age groups, this segment remains underserved. The barriers they face — such as health concerns or age-related limitations — call for gentle, accessible, and safe activity formats. Design recommendations include:
+- Low-impact movement routines (e.g., guided walking, chair yoga, stretching)
 
-Low-impact movement routines (e.g., guided walking, chair yoga, stretching)
+- Rehabilitative or doctor-approved content
 
-Rehabilitative or doctor-approved content
+- Motivation and community-based encouragement
 
-Motivation and community-based encouragement
-
-This demographic is growing and often under-targeted — building trust and usability here can yield long-term value.
+- This demographic is growing and often under-targeted — building trust and usability here can yield long-term value.
 
 5. **Target High-Engagement Countries First**
-From a geographic standpoint, Finland and the Netherlands stand out as the most attractive markets for sports and fitness apps, based on their top rankings in both sport and overall physical activity.
-Localized features, cultural adaptation, and language options for these countries can significantly boost relevance and conversion. Sweden, Denmark, and Germany also present strong opportunities.
+From a geographic standpoint, Finland and the Netherlands stand out as the most attractive markets for sports and fitness apps, based on their top rankings in both sport and overall physical activity. Localized features, cultural adaptation, and language options for these countries can significantly boost relevance and conversion. Sweden, Denmark, and Germany also present strong opportunities.
