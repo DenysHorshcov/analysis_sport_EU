@@ -18,6 +18,7 @@ Insights and recommendations are provided on the following key areas:
 - **Country-Level Opportunities:** Highlighting top-performing markets such as Finland and the Netherlands for business targeting.
 
 An interactive Tableau dashboard is available [here](https://public.tableau.com/views/sportEU/Motivat?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 Testing and analysis of all hypotheses in a text file [here](Testing%20hypotheses.pdf)
 
 ## Data Structure 
