@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 - **Country-Level Opportunities:** Highlighting top-performing markets such as Finland and the Netherlands for business targeting.
 
 An interactive Tableau dashboard is available [here](https://public.tableau.com/views/sportEU/Motivat?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-Testing and analysis of all hypotheses in a text file [here](./Testing hypotheses.pdf).
+Testing and analysis of all hypotheses in a text file [here](Testing%20hypotheses.pdf)
 
 ## Data Structure 
 The dataset used in this project consists of 26,543 records and 124 columns, derived from the cleaned version of the Eurobarometer 97.3 (2022) survey. It contains individual-level responses from participants across EU countries regarding sport and physical activity behavior.
@@ -125,8 +125,6 @@ Below is a snapshot from the interactive Tableau dashboard. More breakdowns and 
 ![Country-Level Participation](./images/country.png)
 
 ### Recommendations
-Based on the behavioral patterns, demographic trends, and motivational insights uncovered in this analysis, several strategic recommendations emerge for developers and businesses designing sport- or fitness-oriented digital products in the EU market.
-
 1. **Prioritize Young and Working-Age Adults (15–54)**
 Younger respondents (15–34) and working-age groups (35–54) show the highest levels of sport and physical activity engagement. These segments are already active and health-aware, making them ideal targets for feature-rich experiences, habit-building programs, and progress tracking tools. Products for these users should emphasize results, personalization, and continuity, helping them stay consistent and improve over time.
 
